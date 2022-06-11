@@ -1,8 +1,8 @@
-#Laravel8
+# Laravel8
 Laravel8版の画像掲示板です
 laravelで作った掲示板はネットの記事に良くありますが、
 laravel8の記述でプログラミングしているサイトは少ない印象があり、今回git hub で更新しました。
-#コマンド
+# コマンド
 ```sh
 "npm run development",
 "development": "mix",
